@@ -1,3 +1,5 @@
+# Deploy gh-pages github
+
 ```yml
 name: Build and Deploy
 on:
@@ -20,5 +22,3 @@ jobs:
 ```
 
 https://id1945.github.io/angular-deploy-github
-
-d
