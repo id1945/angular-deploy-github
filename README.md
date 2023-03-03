@@ -21,4 +21,12 @@ jobs:
         angular_dist_build_folder: dist/angular-deploy-github # The folder where your project is supposed to be after running ng build by the action.
 ```
 
+## New repository secret 
+https://github.com/id1945/angular-deploy-github/settings/secrets/actions
+```
+Name: ACCESS_TOKEN
+Secret: Any characters
+```
+
+## After deploy
 https://id1945.github.io/angular-deploy-github
